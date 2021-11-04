@@ -1,0 +1,591 @@
+Parsing file: "iTunesLibrarySample.xml"
+found start dict
+key: Major Version
+key: Minor Version
+key: Application Version
+key: Date
+key: Features
+key: Show Content Ratings
+key: Library Persistent ID
+key: Tracks
+found start dict for key Tracks
+key: 7875
+found start dict for key 7875
+key: Track ID
+key: Size
+key: Total Time
+key: Year
+key: Date Modified
+key: Date Added
+key: Bit Rate
+key: Sample Rate
+key: Play Count
+key: Play Date
+key: Play Date UTC
+key: Skip Count
+key: Skip Date
+key: Release Date
+key: Rating
+key: Album Rating
+key: Album Rating Computed
+key: Artwork Count
+key: Persistent ID
+key: Track Type
+key: Protected
+key: File Folder Count
+key: Library Folder Count
+key: Name
+key: Artist
+key: Album Artist
+key: Album
+key: Grouping
+key: Genre
+key: Kind
+key: Comments
+key: Sort Artist
+key: Sort Album Artist
+key: Location
+found end dict for key Location
+key: 7877
+found start dict for key 7877
+key: Track ID
+key: Size
+key: Total Time
+key: Disc Number
+key: Disc Count
+key: Track Number
+key: Track Count
+key: Year
+key: Date Modified
+key: Date Added
+key: Bit Rate
+key: Sample Rate
+key: Persistent ID
+key: Disabled
+key: Track Type
+key: File Folder Count
+key: Library Folder Count
+key: Name
+key: Artist
+key: Album Artist
+key: Composer
+key: Album
+key: Genre
+key: Kind
+key: Location
+found end dict for key Location
+found end dict for key Location
+key: Playlists
+found start dict for key Playlists
+key: Playlist ID
+key: Parent Persistent ID
+key: Playlist Persistent ID
+key: All Items
+key: Name
+key: Smart Info
+key: Smart Criteria
+key: Playlist Items
+found start dict for key Playlist Items
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+key: Genius Track ID
+found end dict for key Genius Track ID
+found start dict for key Genius Track ID
+key: Playlist ID
+key: Parent Persistent ID
+key: Playlist Persistent ID
+key: All Items
+key: Name
+key: Smart Info
+key: Smart Criteria
+key: Playlist Items
+found start dict for key Playlist Items
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+key: Genius Track ID
+found end dict for key Genius Track ID
+found start dict for key Genius Track ID
+key: Playlist ID
+key: Parent Persistent ID
+key: Playlist Persistent ID
+key: All Items
+key: Name
+key: Smart Info
+key: Smart Criteria
+key: Playlist Items
+found start dict for key Playlist Items
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+key: Genius Track ID
+found end dict for key Genius Track ID
+found start dict for key Genius Track ID
+key: Playlist ID
+key: Parent Persistent ID
+key: Playlist Persistent ID
+key: All Items
+key: Name
+key: Smart Info
+key: Smart Criteria
+key: Playlist Items
+found start dict for key Playlist Items
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+key: Genius Track ID
+found end dict for key Genius Track ID
+found start dict for key Genius Track ID
+key: Playlist ID
+key: Parent Persistent ID
+key: Playlist Persistent ID
+key: All Items
+key: Name
+key: Smart Info
+key: Smart Criteria
+key: Playlist Items
+found start dict for key Playlist Items
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+key: Genius Track ID
+found end dict for key Genius Track ID
+found start dict for key Genius Track ID
+key: Playlist ID
+key: Parent Persistent ID
+key: Playlist Persistent ID
+key: All Items
+key: Name
+key: Smart Info
+key: Smart Criteria
+key: Playlist Items
+found start dict for key Playlist Items
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+found start dict for key Track ID
+key: Track ID
+found end dict for key Track ID
+key: Genius Track ID
+found end dict for key Genius Track ID
+key: Music Folder
+found end dict for key Music Folder
+Finished parsing

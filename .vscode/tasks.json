@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "cargo",
+      "subcommand": "run | tee run.out",
+      "problemMatcher": ["$rustc"],
+      "label": "Rust: cargo run - itunes-spotify-sync"
+    }
+  ]
+}

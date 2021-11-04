@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Major Version</key>
+    <integer>1</integer>
+    <key>Minor Version</key>
+    <integer>1</integer>
+    <key>Application Version</key>
+    <string>12.11.4.15</string>
+    <key>Date</key>
+    <date>2021-09-30T22:33:58Z</date>
+    <key>Features</key>
+    <integer>5</integer>
+    <key>Show Content Ratings</key>
+    <true/>
+    <key>Library Persistent ID</key>
+    <string>A7EAA662BDD907CA</string>
+    <key>Tracks</key>
+	  <dict>
+      <key>7875</key>
+      <dict>
+        <key>Track ID</key>
+        <integer>7875</integer>
+        <key>Size</key>
+        <integer>5443909</integer>
+        <key>Total Time</key>
+        <integer>333553</integer>
+        <key>Year</key>
+        <integer>2006</integer>
+        <key>Date Modified</key>
+        <date>2016-05-18T19:56:28Z</date>
+        <key>Date Added</key>
+        <date>2013-10-10T18:35:35Z</date>
+        <key>Bit Rate</key>
+        <integer>128</integer>
+        <key>Sample Rate</key>
+        <integer>44100</integer>
+        <key>Play Count</key>
+        <integer>6</integer>
+        <key>Play Date</key>
+        <integer>3644414776</integer>
+        <key>Play Date UTC</key>
+        <date>2019-06-26T23:26:16Z</date>
+        <key>Skip Count</key>
+        <integer>2</integer>
+        <key>Skip Date</key>
+        <date>2016-12-10T22:52:41Z</date>
+        <key>Release Date</key>
+        <date>2006-11-07T08:00:00Z</date>
+        <key>Rating</key>
+        <integer>100</integer>
+        <key>Album Rating</key>
+        <integer>100</integer>
+        <key>Album Rating Computed</key>
+        <true/>
+        <key>Artwork Count</key>
+        <integer>1</integer>
+        <key>Persistent ID</key>
+        <string>89003AD3002CDE35</string>
+        <key>Track Type</key>
+        <string>File</string>
+        <key>Protected</key>
+        <true/>
+        <key>File Folder Count</key>
+        <integer>5</integer>
+        <key>Library Folder Count</key>
+        <integer>1</integer>
+        <key>Name</key>
+        <string>Even Rats</string>
+        <key>Artist</key>
+        <string>The Slip</string>
+        <key>Album Artist</key>
+        <string>The Slip</string>
+        <key>Album</key>
+        <string>Eisenhower</string>
+        <key>Grouping</key>
+        <string>5 Stars</string>
+        <key>Genre</key>
+        <string>Rock</string>
+        <key>Kind</key>
+        <string>Protected AAC audio file</string>
+        <key>Comments</key>
+        <string>5 Stars</string>
+        <key>Sort Artist</key>
+        <string>Slip</string>
+        <key>Sort Album Artist</key>
+        <string>Slip</string>
+        <key>Location</key>
+        <string>file://localhost/D:/Google%20Drive/Music/iTunes/iTunes%20Media/Music/The%20Slip/Eisenhower/Even%20Rats.m4p</string>
+      </dict>
+      <key>7877</key>
+      <dict>
+        <key>Track ID</key>
+        <integer>7877</integer>
+        <key>Size</key>
+        <integer>6097232</integer>
+        <key>Total Time</key>
+        <integer>180306</integer>
+        <key>Disc Number</key>
+        <integer>3</integer>
+        <key>Disc Count</key>
+        <integer>3</integer>
+        <key>Track Number</key>
+        <integer>19</integer>
+        <key>Track Count</key>
+        <integer>25</integer>
+        <key>Year</key>
+        <integer>2007</integer>
+        <key>Date Modified</key>
+        <date>2013-07-08T03:52:30Z</date>
+        <key>Date Added</key>
+        <date>2013-10-10T18:35:36Z</date>
+        <key>Bit Rate</key>
+        <integer>256</integer>
+        <key>Sample Rate</key>
+        <integer>44100</integer>
+        <key>Persistent ID</key>
+        <string>4C00BBE5E96AE460</string>
+        <key>Disabled</key>
+        <true/>
+        <key>Track Type</key>
+        <string>File</string>
+        <key>File Folder Count</key>
+        <integer>5</integer>
+        <key>Library Folder Count</key>
+        <integer>1</integer>
+        <key>Name</key>
+        <string>Hooray For Love</string>
+        <key>Artist</key>
+        <string>Johnny Mercer &amp; The Pied Pipers Feat. Paul Weston &amp; His Orchestra</string>
+        <key>Album Artist</key>
+        <string>Johnny Mercer</string>
+        <key>Composer</key>
+        <string>Leo Robin/Harold Arlen</string>
+        <key>Album</key>
+        <string>Mosiac Select: Johnny Mercer</string>
+        <key>Genre</key>
+        <string>Pop</string>
+        <key>Kind</key>
+        <string>AAC audio file</string>
+        <key>Location</key>
+        <string>file://localhost/D:/Google%20Drive/Music/iTunes/iTunes%20Media/Music/Johnny%20Mercer/Mosiac%20Select_%20Johnny%20Mercer/3-19%20Hooray%20For%20Love.m4a</string>
+      </dict>
+	  </dict>
+    <key>Playlists</key>
+    <array>
+      <dict>
+          <key>Playlist ID</key>
+          <integer>120214</integer>
+          <key>Parent Persistent ID</key>
+          <string>7E7731CEDDA74B65</string>
+          <key>Playlist Persistent ID</key>
+          <string>E572E17DBCE0CEFD</string>
+          <key>All Items</key>
+          <true/>
+          <key>Name</key>
+          <string>Dramamine</string>
+          <key>Smart Info</key>
+          <data>AAABAwAAAAIAAAAZAAABAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Smart Criteria</key>
+          <data>U0xzdAABAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Playlist Items</key>
+          <array>
+            <dict>
+              <key>Track ID</key>
+              <integer>41867</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>23901</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>24387</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>43627</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>35211</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>7925</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>18913</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>12805</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>26949</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>30279</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>16267</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>9189</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>15357</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>18231</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>24685</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>21297</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>13417</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>30295</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>43635</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>8179</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>8125</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>27001</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>19721</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>17651</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>35219</integer>
+            </dict>
+          </array>
+          <key>Genius Track ID</key>
+          <integer>41867</integer>
+        </dict>
+        <dict>
+          <key>Playlist ID</key>
+          <integer>120242</integer>
+          <key>Parent Persistent ID</key>
+          <string>7E7731CEDDA74B65</string>
+          <key>Playlist Persistent ID</key>
+          <string>A6D717FA4F29C444</string>
+          <key>All Items</key>
+          <true/>
+          <key>Name</key>
+          <string>Escape Artist</string>
+          <key>Smart Info</key>
+          <data>AAABAwAAAAIAAAAZAAABAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Smart Criteria</key>
+          <data>U0xzdAABAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Playlist Items</key>
+          <array>
+            <dict>
+              <key>Track ID</key>
+              <integer>25253</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36331</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32855</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33069</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>40769</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36395</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32993</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>20939</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>30521</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>40793</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>29361</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>23561</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32827</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36413</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>17719</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>40747</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32843</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>40573</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>28549</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36323</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32731</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36407</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33003</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>24707</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>9035</integer>
+            </dict>
+          </array>
+          <key>Genius Track ID</key>
+          <integer>25253</integer>
+        </dict>
+        <dict>
+          <key>Playlist ID</key>
+          <integer>120270</integer>
+          <key>Parent Persistent ID</key>
+          <string>7E7731CEDDA74B65</string>
+          <key>Playlist Persistent ID</key>
+          <string>16022CC8685502C6</string>
+          <key>All Items</key>
+          <true/>
+          <key>Name</key>
+          <string>Falling From You</string>
+          <key>Smart Info</key>
+          <data>AAABAwAAAAIAAAAZAAABAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Smart Criteria</key>
+          <data>U0xzdAABAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Playlist Items</key>
+          <array>
+            <dict>
+              <key>Track ID</key>
+              <integer>36397</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32931</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36323</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32855</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>12137</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>28669</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>21039</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>12643</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33001</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36413</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33097</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>21787</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33327</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>15227</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>16165</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>30027</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36335</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33755</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36395</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32943</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>21343</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>32843</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>26039</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>19513</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33329</integer>
+            </dict>
+          </array>
+          <key>Genius Track ID</key>
+          <integer>36397</integer>
+        </dict>
+        <dict>
+          <key>Playlist ID</key>
+          <integer>120298</integer>
+          <key>Parent Persistent ID</key>
+          <string>7E7731CEDDA74B65</string>
+          <key>Playlist Persistent ID</key>
+          <string>B6A3E1F51CFB7DCF</string>
+          <key>All Items</key>
+          <true/>
+          <key>Name</key>
+          <string>Father of Mine</string>
+          <key>Smart Info</key>
+          <data>AAABAwAAAAIAAAAZAAABAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Smart Criteria</key>
+          <data>U0xzdAABAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Playlist Items</key>
+          <array>
+            <dict>
+              <key>Track ID</key>
+              <integer>9537</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>12039</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>13793</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>9391</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>22835</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>25349</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>28611</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>20977</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>10161</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>30083</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>20677</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>26067</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>13533</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>18613</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>16237</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>34989</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>25123</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>14955</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>29799</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>27441</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>9255</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>28033</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>33983</integer>
+            </dict>
+          </array>
+          <key>Genius Track ID</key>
+          <integer>9537</integer>
+        </dict>
+        <dict>
+          <key>Playlist ID</key>
+          <integer>120324</integer>
+          <key>Parent Persistent ID</key>
+          <string>7E7731CEDDA74B65</string>
+          <key>Playlist Persistent ID</key>
+          <string>41883E736AB1DD8A</string>
+          <key>All Items</key>
+          <true/>
+          <key>Name</key>
+          <string>Follow Through</string>
+          <key>Smart Info</key>
+          <data>AAABAwAAAAIAAAAZAAABAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Smart Criteria</key>
+          <data>U0xzdAABAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Playlist Items</key>
+          <array>
+            <dict>
+              <key>Track ID</key>
+              <integer>44005</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>34749</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>37183</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>35459</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>43583</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>31043</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>26717</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>14495</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>25011</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>36357</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>25167</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>18891</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>18661</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>21959</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>34645</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>43569</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>29469</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>42053</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>44001</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>16449</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>42807</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>25961</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>37181</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>23507</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>8595</integer>
+            </dict>
+          </array>
+          <key>Genius Track ID</key>
+          <integer>44005</integer>
+        </dict>
+        <dict>
+          <key>Playlist ID</key>
+          <integer>120352</integer>
+          <key>Parent Persistent ID</key>
+          <string>7E7731CEDDA74B65</string>
+          <key>Playlist Persistent ID</key>
+          <string>98DA36E06746FA14</string>
+          <key>All Items</key>
+          <true/>
+          <key>Name</key>
+          <string>Glory</string>
+          <key>Smart Info</key>
+          <data>AAABAwAAAAIAAAAZAAABAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Smart Criteria</key>
+          <data>U0xzdAABAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  &#x9;&#x9;&#x9;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  &#x9;&#x9;&#x9;</data>
+          <key>Playlist Items</key>
+          <array>
+            <dict>
+              <key>Track ID</key>
+              <integer>18803</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>22171</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>14989</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>10569</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>17187</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>41913</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>8277</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>42149</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>40473</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>17723</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>14499</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>28609</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>23507</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>19343</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>19575</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>15655</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>9533</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>22003</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>41905</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>41961</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>11979</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>12601</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>29039</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>16327</integer>
+            </dict>
+            <dict>
+              <key>Track ID</key>
+              <integer>24621</integer>
+            </dict>
+          </array>
+          <key>Genius Track ID</key>
+          <integer>18803</integer>
+        </dict>
+    </array>
+    <key>Music Folder</key>
+    <string>file://localhost/D:/Google%20Drive/Music/iTunes/iTunes%20Media/</string>
+  </dict>
+</plist>
