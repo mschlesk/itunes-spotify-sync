@@ -1,22 +1,17 @@
-/*
-Major Version
-Minor Version
-Application Version
-Date
-Features
-Show Content Ratings
-Library Persistent ID
-Music Folder
-*/
+extern crate quick_xml;
+use quick_xml::events::Event;
+use quick_xml::Reader;
+
 #[derive(Debug)]
 struct LibraryProperties {
-  major_version: String,
-  minor_version: String,
-  application_version: String,
-  date: String,
-  features: String,
-  show_content_ratings: bool,
-  music_folder: String,
+  major_version: String,         // Major Version
+  minor_version: String,         // Minor Version
+  application_version: String,   // Application Version
+  date: String,                  // Date
+  features: String,              // Features
+  show_content_ratings: bool,    // Show Content Ratings
+  library_persistent_id: String, // Library Persistent ID
+  music_folder: String,          // Music Folder
 }
 
 fn parse_library(
@@ -29,6 +24,7 @@ fn parse_library(
     date: String::new(),
     features: String::new(),
     show_content_ratings: false,
+    library_persistent_id: String::new(),
     music_folder: String::new(),
   };
 
@@ -36,6 +32,8 @@ fn parse_library(
   let mut skip_buf = Vec::new();
 
   loop {
+    skip_buf.clear();
+
     match &r.read_event(&mut skip_buf)? {
       Event::Start(element) => {
         assert_eq!(
@@ -56,6 +54,8 @@ fn parse_library(
   let mut key_stack = Vec::new();
 
   loop {
+    skip_buf.clear();
+
     match &r.read_event(&mut skip_buf)? {
       Event::Start(element) | Event::Empty(element) => match element.name() {
         b"key" => {
@@ -91,6 +91,7 @@ fn parse_library(
             "Date" => library_properties.date = tag_text,
             "Features" => library_properties.features = tag_text,
             "Show Content Ratings" => library_properties.show_content_ratings = tag_text == "true",
+            "Library Persistent ID" => library_properties.library_persistent_id = tag_text,
             "Music Folder" => library_properties.music_folder = tag_text,
             _ => (),
           }
@@ -119,13 +120,6 @@ fn parse_library(
   return Ok(());
 }
 
-extern crate quick_xml;
-use quick_xml::events::Event;
-use quick_xml::Reader;
-
-// demonstrate how to nest readers
-// This is useful for when you need to traverse
-// a few levels of a document to extract things.
 fn parse_itunes_file(filepath: &str) -> Result<(), quick_xml::Error> {
   println!("Parsing file: \"{}\"", filepath);
 
@@ -138,8 +132,6 @@ fn parse_itunes_file(filepath: &str) -> Result<(), quick_xml::Error> {
 
     match reader.read_event(&mut buf)? {
       Event::Start(element) => {
-        // let tag_name = String::from_utf8(element.name().to_vec()).unwrap();
-
         // Take action on specific start tags
         match element.name() {
           b"plist" => {
@@ -148,79 +140,23 @@ fn parse_itunes_file(filepath: &str) -> Result<(), quick_xml::Error> {
             let res = parse_library(&mut reader);
             res.expect("Error parsing library");
           }
-          // b"key" => {
-          //   let key_value = reader
-          //     .read_text(b"key", &mut Vec::new())
-          //     .expect("Cannot decode text value");
-
-          //   println!("key: {}", key_value);
-          //   key_stack.push(key_value)
-          // }
-          // b"dict" => match key_stack.last() {
-          //   Some(key) => {
-          //     println!("found start dict for key {}", key);
-          //     match key.as_str() {
-          //       "Tracks" => {
-          //         println!("found start dict for key Tracks");
-          //         let mut tracks_buf = Vec::new();
-          //         loop {
-          //           match reader.read_event(&mut tracks_buf)? {
-          //             Event::Start(element) => {
-          //               let tag_name = String::from_utf8(element.name().to_vec()).unwrap();
-          //               println!("found start dict for key Tracks: {}", tag_name);
-          //             }
-          //             Event::End(element) => {
-          //               let tag_name = String::from_utf8(element.name().to_vec()).unwrap();
-          //               println!("found end dict for key Tracks: {}", tag_name);
-          //               break;
-          //             }
-          //             _ => (),
-          //           }
-          //         }
-          //       }
-          //       _ => (),
-          //     }
-          //   }
-          //   _ => println!("found start dict"),
-          // },
           _ => {}
         }
       }
-      Event::End(element) => {
-        // let tag_name = String::from_utf8(element.name().to_vec()).unwrap();
-
-        // let tabs = key_stack.len() - 1;
-        // for _ in 0..tabs {
-        //   print!("--");
-        // }
-        // println!("-| Closing tag: {:?}", tag_name);
-
-        // assert_eq!(key_stack.pop(), Some(tag_name));
-
-        match element.name() {
-          b"plist" => {
-            println!("plist close tag found, finished library parsing");
-          }
-          // b"dict" => {
-          //   println!("found end dict for key {}", key_stack.last().unwrap());
-          // }
-          _ => {}
+      Event::End(element) => match element.name() {
+        b"plist" => {
+          println!("plist close tag found, finished library parsing");
         }
-      }
+        _ => {}
+      },
       Event::Eof => break,
       _ => {}
     }
   }
-  //     }
-  //     Event::Eof => break,
-  //     _ => {}
-  //   }
-  //   buf.clear();
-  // }
 
   Ok(())
 }
 
 fn main() {
-  parse_itunes_file("iTunesLibrarySample.xml").expect("shit");
+  parse_itunes_file("iTunesLibrarySample.xml").expect("ohno");
 }
